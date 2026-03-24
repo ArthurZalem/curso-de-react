@@ -21,7 +21,7 @@ function TaskPage() {
           >
             <ChevronLeft />
           </button>
-          <Title>Detalhes da Tarefa </Title>
+          <Title> Detalhes da Tarefa </Title>
         </div>
         <div className="bg-slate-200 p-4 rounded-md">
           <h2 className="text-xl font-bold font-held text-slate-600">
